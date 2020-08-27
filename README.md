@@ -1,6 +1,6 @@
 # TO DO LIST (EMAIL VERSION)
 
-[logo]: https://www.pressmyweb.com/wp-content/uploads/2013/10/Email-perf_blog1.jpg "Logo"
+![alt text](https://www.pressmyweb.com/wp-content/uploads/2013/10/Email-perf_blog1.jpg "Logo")
 
 [Heroku link](https://www.google.com)
 
