@@ -5,10 +5,11 @@
 [Heroku link](https://www.google.com)
 
 Ce projet a été réalisé en PeerProgramming.
+
 Notre groupe est composé de:
-..* Fatouma Karamoko
-..* Caroline Kinouani
-..* Camillia Meddahi
-..* Clément Pain
-..* Théo Fauvel
-..* Ton LY-GONNEVILLE
+1. Fatouma Karamoko
+2. Caroline Kinouani
+3. Camillia Meddahi
+4. Clément Pain
+5. Théo Fauvel
+6. Ton LY-GONNEVILLE
