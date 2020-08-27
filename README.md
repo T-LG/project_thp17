@@ -1,24 +1,14 @@
-# README
+# TO DO LIST (EMAIL VERSION)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[logo]: https://www.pressmyweb.com/wp-content/uploads/2013/10/Email-perf_blog1.jpg "Logo"
 
-Things you may want to cover:
+[Heroku link](https://www.google.com)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ce projet a été réalisé en PeerProgramming.
+Notre groupe est composé de:
+..* Fatouma Karamoko
+..* Caroline Kinouani
+..* Camillia Meddahi
+..* Clément Pain
+..* Théo Fauvel
+..* Ton LY-GONNEVILLE

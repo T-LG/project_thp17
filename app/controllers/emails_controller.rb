@@ -16,9 +16,19 @@ class EmailsController < ApplicationController
   def show
     @emailselected = Email.find(params[:id])
     @emailselected.update(:read => true)
-
     respond_to do |format|
-      format.html { redirect_to email_path(@email.id) }
+      format.html { redirect_to email_path(@emailselected.id) }
+      format.js { }
+    end
+  end
+
+  def update
+    @emailselected = Email.find(params[:id])
+    if @emailselected.read == true
+      @emailselected.update(:read => false)
+    end
+    respond_to do |format|
+      format.html { redirect_to email_path(@emailselected.id) }
       format.js { }
     end
   end
